@@ -1,4 +1,4 @@
-name: CD - Deploy Frontend (Simulated)
+name: CD - Frontend (Simulated)
 
 on:
   workflow_dispatch:
